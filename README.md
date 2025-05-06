@@ -1,4 +1,4 @@
-# LUXE Hair Salon Website
+# BelleRoyale Hair Salon Website
 
 A modern, responsive website for LUXE Hair salon built with SvelteKit, focusing on sustainable luxury hair services.
 
